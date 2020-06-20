@@ -1,0 +1,11 @@
+<?php
+ function func1() {
+ 	echo "sadlfajs<br>";
+ }
+
+ func1();
+ func1();
+?>
+
+<h1><?php bloginfo('name'); ?></h>
+<p><?php bloginfo('description')?><p>
